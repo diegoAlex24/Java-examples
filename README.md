@@ -19,8 +19,20 @@ Todos los cÃ³digos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 
 ### Contenido
 
-1. programa_1.java
-    * 
+1. JavaConsole
+    * JavaConsole.java
+        * Comentarios multilinea
+        * Comentario de una linea
+        * Variables
+        * Constantes
+        * Clase y metodo main
+        * Impresión consola
+2. JavaSwing
+    * MyJFrame.java
+        * Creación del proyecto
+        * Main de la aplicación
+        * Label en JavaSwing
+
 
 [Repositorio](https://github.com/diegoAlex24/Java-examples).
 
