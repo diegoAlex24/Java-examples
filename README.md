@@ -2,12 +2,12 @@
 
 **[Ver página](https://diegoalex24.github.io/Java-examples)**
 
-Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **Java**.
+Este repositorio estÃ¡ dirigido a todas las personas que buscan aprender o repasar las caracterÃ­sticas de **Java**.
 
 ![Image Java](https://raw.githubusercontent.com/diegoAlex24/Java-examples/master/Java_logo.png)
 
 ### Java
-Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
+Todos los cÃ³digos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```java
     class Principal {
@@ -26,11 +26,11 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         * Variables
         * Constantes
         * Clase y metodo main
-        * Impresi�n consola
+        * Impresión consola
 2. JavaSwing
     * MyJFrame.java
-        * Creaci�n del proyecto
-        * Main de la aplicaci�n
+        * Creación del proyecto
+        * Main de la aplicación
         * Label en JavaSwing
 
 
