@@ -2,12 +2,12 @@
 
 **[Ver página](https://diegoalex24.github.io/Java-examples)**
 
-Este repositorio estÃ¡ dirigido a todas las personas que buscan aprender o repasar las caracterÃ­sticas de **Java**.
+Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **Java**.
 
 ![Image Java](https://raw.githubusercontent.com/diegoAlex24/Java-examples/master/Java_logo.png)
 
 ### Java
-Todos los cÃ³digos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
+Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```java
     class Principal {
