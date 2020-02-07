@@ -33,7 +33,6 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         * Main de la aplicación
         * Label en JavaSwing
 
-
 [Repositorio](https://github.com/diegoAlex24/Java-examples).
 
 ### Otros repositorios
