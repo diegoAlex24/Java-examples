@@ -32,6 +32,20 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         * Creación del proyecto
         * Main de la aplicación
         * Label en JavaSwing
+		
+### Compilacion con eclipse
+1. Con el proyecto abierto hay que dar clic en file -> export.
+2. Poner la opción Java -> Runnable JAR File
+3. Configuración de inicio ponemos el main de entrada al programa
+4. Seleccionamos la carpeta destino donde guardar
+5. Elegimos la opción Extraer librerias requeridas en el JAR Generado
+6. Clic en terminar para finalizar
+
+### Ejecución desde línea de comandos
+En la consola se pone el siguiente comando
+```console
+$ java -jar Programa.jar
+```
 
 [Repositorio](https://github.com/diegoAlex24/Java-examples).
 
