@@ -33,7 +33,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         * Main de la aplicación
         * Label en JavaSwing
 		
-### Compilacion con eclipse
+### Creación de ejecutable con eclipse
 1. Con el proyecto abierto hay que dar clic en file -> export.
 2. Poner la opción Java -> Runnable JAR File
 3. Configuración de inicio ponemos el main de entrada al programa
