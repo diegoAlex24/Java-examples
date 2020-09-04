@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaConsole/src"/>
+	<classpathentry kind="src" path="JavaSwing/src"/>
+	<classpathentry kind="lib" path="JavaConsole/dist/JavaConsole.jar"/>
+	<classpathentry kind="lib" path="JavaSwing/dist/JavaSwing.jar"/>
+	<classpathentry kind="output" path="JavaConsole/build/classes"/>
+</classpath>
