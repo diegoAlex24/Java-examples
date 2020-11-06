@@ -36,7 +36,10 @@ public class JavaConsole {
         // Imprimiendo constante
         System.out.println(PINUM);
         
-                
+        /*** Clases y Objetos ***/
+        /*** Objeto ***/
+        // Creacion de un objeto de la clase Persona
+        Person someone = new Person();
     }
     
 }
