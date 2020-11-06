@@ -27,15 +27,16 @@ public class JavaConsole {
     static final double PINUM = 3.1416; 
     
     /*** Clase y metodo main ***/
-    public static void main(String[] args) { //Entrada al programa
+    public static void main(String[] args) { // Entrada al programa
         // TODO code application logic here
-        /*** ImpresiÃ³n en consola ***/
+        /*** Impresión en consola ***/
         System.out.println("Hola Java");
         // Imprimiendo variable
         System.out.println(cadenaAleatoria);
         // Imprimiendo constante
         System.out.println(PINUM);
         
+                
     }
     
 }
