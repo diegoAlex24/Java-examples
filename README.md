@@ -36,6 +36,9 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         * Creación del proyecto
         * Main de la aplicación
         * Label en JavaSwing
+
+### Requisito para usar Java
+Para poder usar Java en nuestra computadora es necesario instalar el JDK (Java Development Kit).
 		
 ### Creación de ejecutable con eclipse
 1. Con el proyecto abierto hay que dar clic en file -> export.
